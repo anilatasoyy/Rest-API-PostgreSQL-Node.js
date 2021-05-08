@@ -1,7 +1,7 @@
 # My first API project with DB
 
 
-1- It lacks node_modules folder to use it you need to go to terminal and write "npm install"
+1- It lacks node_modules folder to use it you need to go to terminal and write "npm install" and "npm i express"
 
 2- You will also need psql configuration file of your own database that called "psqlconfig.js" 
  
